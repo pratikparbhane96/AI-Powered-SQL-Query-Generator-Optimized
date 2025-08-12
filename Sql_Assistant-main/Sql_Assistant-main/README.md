@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/31a4aa04-d500-44b1-b750-8c33a118046c
 
 
 For queries or support, reach out to:
-•	Email: koulvidhi2@gmail.com
+•	Email: pratikparbhane96@gmail.com
 ## Happy Coding! 🚀
 
  
