@@ -25,7 +25,7 @@ Ensure you have the following installed before proceeding:
 
 ## Steps to Run Locally
 1. Clone the Repository
-git clone https://github.com/vidhikoul/Sql_Assistant  
+git clone  
 cd Sql_Assistant  
 2. Set Up the Backend
 cd Backend  
